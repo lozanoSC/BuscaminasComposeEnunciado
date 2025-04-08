@@ -14,5 +14,5 @@ Se pide:
 - En Main.kt, está la descripción de los componentes.
 
 
-- Mientras juegas deberás visualizar simultáneamente la hora actual, o un cronometro para indicar el tiempo que lleva jugando o similar. Se trata de que escribas una corrutina asíncrona con el juego
+- Mientras juegas deberás visualizar simultáneamente la hora actual, o un cronometro para indicar el tiempo que llevas jugando o similar. Se trata de que escribas una corrutina asíncrona con la partida.
   
