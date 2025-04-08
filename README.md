@@ -1,5 +1,6 @@
 # BuscaminasComposeEnunciado
 Reutilizando la capa de negocio la tarea anterior, tenemos que conseguir un busca minas con  interface Compose. 
+
 Se pide:
 - Reutilizar obligatoriamente la capa de negocio  de la tarea anterior que se asume que es independiente de la E/S. Esto incluirá la clase Buscaminas y otras clases y funciones si fuera el caso
 - La capa de negocio estará en un paquete motorbuscaminas
@@ -13,5 +14,5 @@ Se pide:
 - En Main.kt, está la descripción de los componentes.
 
 
-  Mientras juegas deberás visualizar simultáneamente la hora actual, o un cronometro para indicar el tiempo que lleva jugando o similar. Se trata de que escribas una corrutina asíncrona con el juego
+- Mientras juegas deberás visualizar simultáneamente la hora actual, o un cronometro para indicar el tiempo que lleva jugando o similar. Se trata de que escribas una corrutina asíncrona con el juego
   
